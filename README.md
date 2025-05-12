@@ -24,10 +24,10 @@ The task involved training a computer vision model on a labeled dataset of photo
 
 ## 🧪 How to Install and Run
   1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/good-seed-age-verification.git
-    cd good-seed-age-verification
-  2. Install dependencies:
+     ```bash
+     git clone https://github.com/your-username/good-seed-age-verification.git
+     cd good-seed-age-verification
+  3. Install dependencies:
      ```bash
      pip install -r requirements.txt
   4. Run the notebook on a GPU-supported platform (e.g., Google Colab, Kaggle, or a local CUDA-enabled environment):
